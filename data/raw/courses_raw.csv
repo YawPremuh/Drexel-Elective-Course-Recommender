@@ -1,0 +1,4 @@
+course_code,title,department,course_number,description,credits,prerequisites_raw,prerequisite_courses,catalog_year,calendar_system
+CS383,Machine Learning,CS,383,"Introduction to machine learning methods and algorithms.",3.0,"CS 260","CS260","2026-2027","quarter"
+CS380,Artificial Intelligence,CS,380,"Introduction to artificial intelligence methods and intelligent systems.",3.0,"CS 260","CS260","2026-2027","quarter"
+ECE350,Computer Architecture,ECEC,350,"Introduction to computer organization and architecture.",4.0,"ECEC 204","ECEC204","2026-2027","quarter"
