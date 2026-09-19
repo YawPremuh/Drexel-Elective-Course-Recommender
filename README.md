@@ -1,6 +1,2 @@
 # Drexel-Elective-Course-Recommender
-Software to suggest personalized free elective recommendation to Drexel University students
-
-
-
-Reddit/Drexel
+A hybrid recommendation system to suggest personalized free electives to Drexel University students
